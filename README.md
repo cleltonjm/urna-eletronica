@@ -11,7 +11,7 @@
 ![](https://github.com/cleltonjm/urna-eletronica/blob/master/images/ex3.jpg)
 
 ## Sobre
-Este é um projeto desenvolvido durante uma live realizada pela @B7Web, utilizando API do The Movie Database(TMDb).
+Este é um projeto desenvolvido durante uma live realizada pela @B7Web.
 
 A proposta do projeto é o desenvolvimento de uma Urna Eletrônica, baseada nas eleições brasileiras!
 
